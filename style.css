@@ -1,0 +1,12 @@
+tr{
+    border: 1px black solid;
+}
+td{
+    border: 1px black solid;
+    background-color: rgb(255, 123, 0);
+}
+table{
+    border: 5px dotted black;
+    background-color: red;
+    border-radius: 10px;
+}
